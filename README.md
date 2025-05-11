@@ -15,7 +15,7 @@ Go into the main folder and into the main.java file and click the green Arrow in
 
 Now your good to go.
 
-##Key Bindings :
+## Key Bindings :
 
 A = left
 
